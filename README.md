@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @ph4ntom5
+- 👋  Hi, I’m Toms!
 - 👀  I’m interested in learning more about software development and becoming a better developer day by day.
 - 🌱  Currently I'm learning JavaScript and React.js framework.
 - 💞️  I’m open for part time or full time development roles atm.
