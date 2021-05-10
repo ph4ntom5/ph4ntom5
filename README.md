@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Toms!
 - 👀  I’m interested in learning more about software development and becoming a better developer day by day.
-- 🌱  Currently I'm learning JavaScript and React.js framework.
+- 🌱  Currently I'm learning JavaScript and React.js.
 - 💞️  I’m open for part time or full time development roles atm.
 - 📫  Feel free to drop me a line at hello@tomsweb.site
 
