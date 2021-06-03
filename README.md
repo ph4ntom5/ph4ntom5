@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Toms!
-- 👀  I’m interested in learning more about software development and becoming a better developer day by day.
-- 🌱  Currently I'm learning JavaScript and React.js.
-- 💞️  I’m open for part time or full time development roles atm.
+- 👀  I’m interested in learning more about CSS styling and FrontEnd development day by day.
+- 🌱  Currently I'm learning CSS3 & JavaScript.
+- 💞️  I’m open for part time or full time roles atm.
 - 📫  Feel free to drop me a line at hello@tomsweb.site
 
 <!---
