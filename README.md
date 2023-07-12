@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Toms!
 - 👀  I’m interested in learning more about CSS styling and FrontEnd development day by day.
-- 🌱  Currently I'm learning CSS3 & JavaScript.
-- 💞️  I’m open for part time or full time FrontEnd Developer/Designer roles atm.
+- 🌱  Currently, I'm learning JavaScript and React library.
+- 💞️  I’m open for part-time or full-time FrontEnd Developer/Designer roles atm.
 - 📫  Feel free to drop me a line at hello@tomsweb.site
 
 <!---
