@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web designer and Webflow developer
 --------------------------------
 
-*   🌍  I'm based in Copenhagen,Denmark
+*   🌍  I'm based in Riga,Latvia
 *   ✉️  You can contact me at [hello@tomsweb.site](mailto:hello@tomsweb.site)
 *   🧠  I'm learning Webflow Development, SwipperJS, and GSAP.
 *   🤝  I'm open to collaborating on part-time or full-time Front-End and Design projects.
