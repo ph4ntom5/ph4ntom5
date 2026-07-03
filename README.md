@@ -6,7 +6,7 @@ Web designer and Webflow developer
 
 *   🌍  I'm based in Riga,Latvia
 *   ✉️  You can contact me at [hello@tomsweb.site](mailto:hello@tomsweb.site)
-*   🧠  I'm learning Webflow Development, SwipperJS, and GSAP.
+*   🧠  I'm practising Web design, Webflow and agentic development, GSAP, Lenis.js.
 *   🤝  I'm open to collaborating on part-time or full-time Front-End and Design projects.
 *   ⚡  Once won a student poker tournament.
 
